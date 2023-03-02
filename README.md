@@ -13,7 +13,7 @@ Here you can find all my procrastination powered projects, some finished, some d
 
 ## About me
 
-I'm 20 something year old lad studying at [Epitech](https://www.epitech.eu/en/) and in an apprenticeship at [Ateme](https://www.ateme.com/) learning Big Data and AI.
+I'm a 20 something years old lad studying at [Epitech](https://www.epitech.eu/en/) and currently in an apprenticeship at [Ateme](https://www.ateme.com/) learning Big Data and AI.
 If you want to know more about me, feel free to DM me on [LinkedIn](https://www.linkedin.com/in/kavan-t/)!
 
 <!--
