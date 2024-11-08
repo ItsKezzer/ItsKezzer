@@ -2,7 +2,7 @@
 
 People call me Kavan or Kezzer, but my friends call me *dumbass*
 
-Here you will find all my procrastination powered projects
+Here you will find all my side projects
 
 ## Known programming *~~spells~~* languages
 
